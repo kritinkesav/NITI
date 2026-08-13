@@ -54,6 +54,6 @@ NN-model-name/
 | 14 | Transformers | ✅ | Attention is all you need — the modern engine |
 | 15 | Vision Transformers | ✅ | Images as sentences of patches |
 | 16 | Multimodal (CLIP-style) | ✅ | One space for images AND text |
-| 17 | Modern LLM concepts | ⬜ | Pretraining, fine-tuning, RLHF — how chatbots are made |
+| 17 | Modern LLM concepts | ✅ | Pretraining, fine-tuning, RLHF — how chatbots are made |
 
 Each lesson assumes only the lessons before it. The deep-learning half (10+) leans hard on lesson 01: it is the same predict → error → gradient → update loop, scaled up.
